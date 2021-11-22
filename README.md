@@ -19,5 +19,3 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isuru0x01&show_icons=true&locale=en&layout=compact" alt="isuru0x01" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isuru0x01&show_icons=true&locale=en" alt="isuru0x01" /></p>
