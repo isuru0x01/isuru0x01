@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=isuru0x01&label=Profile%20views&color=0e75b6&style=flat" alt="isuru0x01" /> </p>
 <h4 align="center">Personal Projects</h3>
-<p align="center"><a href="https://share.streamlit.io/isuru0x01/lkexchangerateapi/main/st.py" style="text-decoration:none;">- 🌱 Web Application using Stremlit and BeautifulSoup to extract up-to-date exchange ratings from Money Exchange Providers.</a></p>
+<p align="center"><a style="text-decoration:none;" target="_blank" href="https://share.streamlit.io/isuru0x01/lkexchangerateapi/main/st.py">🌱 Web Application using Stremlit and BeautifulSoup to extract up-to-date exchange ratings from Money Exchange Providers.</a></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
