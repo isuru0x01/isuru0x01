@@ -17,3 +17,8 @@
 <p align="center">
 <a href="https://tryhackme.com/p/isurumadusanka"><img src="https://tryhackme-badges.s3.amazonaws.com/isurumadusanka.png" alt="TryHackMe"></a>
 </p>
+
+<h3 align="center">Hack The Box</h3>
+<p align="center">
+<img src="http://www.hackthebox.eu/badge/image/81265" alt="Hack The Box">
+</p>
