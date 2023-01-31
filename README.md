@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=isuru0x01&label=Profile%20views&color=0e75b6&style=flat" alt="isuru0x01" /> </p>
 
-<a href="https://app.hackthebox.com/profile/81265" target="blank"><h3 align="center">Hack The Box</h3></a>
+<h3 align="center"><a href="https://app.hackthebox.com/profile/81265" target="blank">Hack The Box</a></h3>
 <p align="center">
 <img src="http://www.hackthebox.eu/badge/image/81265" alt="Hack The Box">
 </p>
