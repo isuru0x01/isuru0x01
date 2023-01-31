@@ -5,7 +5,7 @@
 
 <h3 align="center"><a href="https://app.hackthebox.com/profile/81265" target="blank">Hack The Box</a></h3>
 <p align="center">
-<img src="http://www.hackthebox.eu/badge/image/81265" alt="Hack The Box">
+<a href="https://app.hackthebox.com/profile/81265" target="blank"><img src="http://www.hackthebox.eu/badge/image/81265" alt="Hack The Box"></a>
 </p>
 
 <h4 align="center">Personal Projects</h3>
